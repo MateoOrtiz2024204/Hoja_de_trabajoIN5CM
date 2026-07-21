@@ -1,29 +1,20 @@
 [
     {
-        "id": 1,
-        "nombre": "Mouse inalámbrico",
-        "descripcion": "Mouse óptico inalámbrico con receptor USB",
-        "precio": 85.5,
-        "stock": 30,
-        "categoria": "Periféricos",
-        "estado": "activo"
-    },
-    {
-        "id": 2,
-        "nombre": "Teclado mecánico",
-        "descripcion": "Teclado mecánico switch rojo",
-        "precio": 250,
-        "stock": 15,
-        "categoria": "Periféricos",
-        "estado": "activo"
-    },
-    {
         "id": 3,
         "nombre": "Monitor 24 pulgadas",
         "descripcion": "Monitor LED Full HD",
         "precio": 750,
         "stock": 8,
         "categoria": "Pantallas",
+        "estado": "activo"
+    },
+    {
+        "id": 4,
+        "nombre": "Teclado RGB",
+        "descripcion": "Teclado RBG con entreda USB",
+        "precio": 150,
+        "stock": 20,
+        "categoria": "Periféricos",
         "estado": "activo"
     }
 ]
