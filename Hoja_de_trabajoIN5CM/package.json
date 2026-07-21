@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx src/index.ts",
     "server": "tsx src/api/server.ts",
     "test": ""
   },
