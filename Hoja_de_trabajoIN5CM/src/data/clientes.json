@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mateo",
+        "apellido": "Beltetón",
+        "correo": "mateo@gmail.com",
+        "telefono": "12345678",
+        "direccion": "Zona 1, Guatemala",
+        "estado": "activo"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana",
+        "apellido": "López",
+        "correo": "ana@gmail.com",
+        "telefono": "87654321",
+        "direccion": "Zona 5, Guatemala",
+        "estado": "activo"
+    }
+]
