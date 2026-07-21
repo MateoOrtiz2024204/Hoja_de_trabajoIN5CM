@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "nombre": "Mateo",
-        "apellido": "Beltetón",
-        "correo": "mateo@gmail.com",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "correo": "benjamin.v4@gmail.com",
         "telefono": "12345678",
-        "direccion": "Zona 1, Guatemala",
-        "estado": "activo"
+        "direccion": "1ro de julio",
+        "estado": "inactivo"
     },
     {
-        "id": 2,
-        "nombre": "Ana",
-        "apellido": "López",
-        "correo": "ana@gmail.com",
-        "telefono": "87654321",
-        "direccion": "Zona 5, Guatemala",
+        "id": 6,
+        "nombre": "Benjamin",
+        "apellido": "Ortiz",
+        "correo": "mortiz-2024204@kinal.edu.gt",
+        "telefono": "42434058",
+        "direccion": "San Jose pinula",
         "estado": "activo"
     }
 ]
